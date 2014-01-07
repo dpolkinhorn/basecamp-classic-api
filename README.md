@@ -6,7 +6,7 @@ This is the API for Basecamp Classic (basecamphq.com). Check out the API for the
 The Basecamp Classic API is implemented as vanilla XML over HTTP using all four verbs (GET/POST/PUT/DELETE). Every resource, like Post, Comment, or TodoList, has their own URL and are manipulated in isolation. We've tried to make the API follow the REST principles as much as we can.
 
 The endpoint for the API is:
-https://basecamphq.com/{Account ID}/api/v1
+https://basecamphq.com/{Account_ID}/api/v1
 
 You can find your Account ID in the URL in Basecamp New.
 
